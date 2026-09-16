@@ -8,8 +8,8 @@
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=205&type=darm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hk4Z8wi.jpeg" tvg-id="itzplay.id" group-title="Football League Indonesia",Bri Super League  â–ŽVidio 1
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
-#https://maling.pl/205.mpd
-#https://aspaltvpasti.top/11111/19354.mpd
+https://maling.pl/205.mpd
+https://aspaltvpasti.top/11111/19354.mpd
 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -19,8 +19,8 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19353&type=drm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hk4Z8wi.jpeg" tvg-id="itzplay.id" group-title="Football League Indonesia",Bri Super League  â–ŽVidio 2
 https://tvratu.my.id/vid/index.mpd?id=19353&type=dash
-#https://maling.pl/19353.mpd
-#https://aspaltvpasti.top/11111/19353.mpd
+https://maling.pl/19353.mpd
+https://aspaltvpasti.top/11111/19353.mpd
 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -30,7 +30,7 @@ https://tvratu.my.id/vid/index.mpd?id=19353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19385&type=drm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hk4Z8wi.jpeg" tvg-id="itzplay.id" group-title="Football League Indonesia",Bri Super League  â–ŽVidio 3
 https://tvratu.my.id/vid/index.mpd?id=19385&type=dash
-#https://maling.pl/19385.mpd
+https://maling.pl/19385.mpd
 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -40,8 +40,8 @@ https://tvratu.my.id/vid/index.mpd?id=19385&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19354&type=drm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hk4Z8wi.jpeg" tvg-id="itzplay.id" group-title="Football League Indonesia",Bri Super League  â–ŽVidio 4
 https://tvratu.my.id/vid/index.mpd?id=19354&type=dash
-#https://maling.pl/19354.mpd
-#https://aspaltvpasti.top/11111/205.mpd
+https://maling.pl/19354.mpd
+https://aspaltvpasti.top/11111/205.mpd
 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -81,7 +81,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h235/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19541&type=drm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OEqbYYe.jpeg" tvg-id="itzplay.id" group-title="Football League Indonesia", Pegadaian Championship  â–ŽVidio 1
 https://tvratu.my.id/vid/index.mpd?id=19541&type=dash
-#https://maling.pl/20833.mpd
+https://maling.pl/20833.mpd
 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -91,7 +91,7 @@ https://tvratu.my.id/vid/index.mpd?id=19541&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19543&type=drm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OEqbYYe.jpeg" tvg-id="itzplay.id" group-title="Football League Indonesia",Pegadaian Championship  â–ŽVidio 2
 https://tvratu.my.id/vid/index.mpd?id=19543&type=dash
-#https://maling.pl/19543.mpd
+https://maling.pl/19543.mpd
 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -101,7 +101,7 @@ https://tvratu.my.id/vid/index.mpd?id=19543&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=20833&type=drm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OEqbYYe.jpeg" tvg-id="itzplay.id" group-title="Football League Indonesia",Pegadaian Championship  â–ŽVidio 3
 https://tvratu.my.id/vid/index.mpd?id=20833&type=dash
-#https://maling.pl/19541.mpd
+https://maling.pl/19541.mpd
 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -111,7 +111,7 @@ https://tvratu.my.id/vid/index.mpd?id=20833&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19883&type=drm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OEqbYYe.jpeg" tvg-id="itzplay.id" group-title="Football League Indonesia",Pegadaian Championship  â–ŽVidio 4
 https://tvratu.my.id/vid/index.mpd?id=19883&type=dash
-#https://maling.pl/19883.mpd
+https://maling.pl/19883.mpd
 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -121,7 +121,7 @@ https://tvratu.my.id/vid/index.mpd?id=19883&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19584&type=drm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OEqbYYe.jpeg" tvg-id="itzplay.id" group-title="Football League Indonesia",Pegadaian Championship  â–ŽVidio 5
 https://tvratu.my.id/vid/index.mpd?id=19584&type=dash
-#https://maling.pl/19584.mpd
+https://maling.pl/19584.mpd
 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -131,7 +131,7 @@ https://tvratu.my.id/vid/index.mpd?id=19584&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19542&type=drm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OEqbYYe.jpeg" tvg-id="itzplay.id" group-title="Football League Indonesia",Pegadaian Championship  â–ŽVidio 6
 https://tvratu.my.id/vid/index.mpd?id=19542&type=dash
-#https://maling.pl/19542.mpd
+https://maling.pl/19542.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OEqbYYe.jpeg" tvg-id="itzplay.id" group-title="Football League Indonesia",Pegadaian Championship  â–ŽIndosiar Digital
@@ -153,21 +153,21 @@ $EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jvfFLE7.jpeg" tvg-id="itzplay.id" group-title="Indonesia",MNCTV  â–ŽRCTI+
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-#https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7LnO8iZ.jpeg" tvg-id="itzplay.id" group-title="Indonesia",GTV  â–ŽRCTI+
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-#https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o66RL3F.jpeg" tvg-id="itzplay.id" group-title="Indonesia",iNews  â–ŽRCTI+
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-#https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oaBCedP.jpeg" tvg-id="itzplay.id" group-title="Indonesia",MDTV  â–ŽTransVision
